@@ -38,7 +38,7 @@ O projeto foi desenvolvido de forma incremental e mantém diferentes etapas da a
 
 **Tecnologias:** Python • SQLite • SQL • POO • Pandas • Git/GitHub
 
-🔗 [Ver projeto no GitHub](https://github.com/zeta993/Sistema-alunos-phyton)
+🔗 [Ver projeto no GitHub](https://github.com/zeta993/Sistema-alunos-python)
 
 ---
 
